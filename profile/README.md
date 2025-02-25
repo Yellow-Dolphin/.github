@@ -1,7 +1,3 @@
-
-![logo](https://github.com/user-attachments/assets/34ac33fb-8526-4604-9d3d-4ecdc4dc2c26)
-
-
 In the rapidly advancing digital world, where cyber threats are growing increasingly sophisticated, institutions across 
 the globe are seeking reliable and cutting-edge solutions to protect their networks. One such revolutionary tool emerging as a game-changer 
 in cybersecurity is Yellow Dolphin. With its ability to monitor networks, detect cyberattacks, and safeguard critical infrastructures, this 
